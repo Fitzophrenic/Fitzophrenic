@@ -44,10 +44,10 @@ Feel free to reach out if you want to collaborate or just say hi! 😄
 
 ## 📂 Featured Projects
 
-### [Project 1](https://github.com/Checkpoint)
+### [Project 1](https://github.com/Fitzophrenic/Checkpoint)
 - **Description:** Checkpoint is a documentation and organization tool made for game developers who are tired of scattered notes, playtests, and project files. It centralizes to-do lists, development logs, and documentation into a single, customizable desktop app. Built with JavaFX for flexibility and SQLite for lightweight data storage, Checkpoint helps game teams focus on what matters: Creating games.
 
-### [Project 2](https://github.com/YourUsername/Large-Bytes-GeauxHack2024)
+### [Project 2](https://github.com/Fitzophrenic/Large-Bytes-GeauxHack2024)
 - **Description:** This project was made to solve the problem of traveling to foreign countries and not being able to understand the language. This website works as a translation website and guide for what to do in the country an individual may be in. HTML, CSS, and Node.js were used to create this project.
 
 ---
