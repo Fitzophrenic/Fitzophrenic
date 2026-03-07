@@ -36,7 +36,7 @@
 ## 🌈 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ethan-fitzgerald-8953a7270)
-- [Twitter](https://twitter.com/Fitzophrenic)
+- [Twitter](https://twitter.com/MrFitzophrenic)
 
 Feel free to reach out if you want to collaborate or just say hi! 😄
 
